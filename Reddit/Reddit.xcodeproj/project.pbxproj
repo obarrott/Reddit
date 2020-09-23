@@ -92,6 +92,7 @@
 		A64B6767251BAA9D0000F5A1 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				A64B6793251BE44C0000F5A1 /* New Group */,
 				A64B6757251BAA650000F5A1 /* Main.storyboard */,
 			);
 			path = View;
@@ -127,6 +128,13 @@
 				A64B6770251BB7050000F5A1 /* PostError.swift */,
 			);
 			path = HelpersAndExtensions;
+			sourceTree = "<group>";
+		};
+		A64B6793251BE44C0000F5A1 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
